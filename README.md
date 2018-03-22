@@ -1,4 +1,4 @@
-# CrySync
+# CrySync [![Build Status](https://travis-ci.org/dokzlo13/CrySync.svg?branch=master)](https://travis-ci.org/dokzlo13/CrySync)
 CrySync - приложение для облачной сихронизации и использованием оконечного шифрования.
 [![N|Solid](https://www.python.org/static/community_logos/python-powered-w-140x56.png)](https://www.python.org/)
 # Характеристики
